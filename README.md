@@ -59,8 +59,9 @@
         <div class="apology">
             <p>Chúng ta đã có những khoảnh khắc tuyệt vời và em là người quan trọng nhất với anh.</p>
             <p>Anh chân thành xin lỗi vì những lỗi lầm và gây thất vọng.</p>
-            <p>Anh hứa sẽ hăm trêu bé nữa ạ.</p>
+            <p>Anh xin hứa từ nay sẽ hăm tự ti vùa cảm thấy mình phiền nữa ạ :( .</p>
             <p>Nên là đừng giận anh nữa nhaaaa.</p>
+            <p>nhma nếu anh phiền, bé phải nói anh biết nghe hawmmmm </p>
         </div>
         <div class="signature">
             <p>Yêu Em Bé Của Anh,</p>
